@@ -28,3 +28,4 @@ This is me a minute before running into a bug:
 </div>
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gerkep&theme=dark&background=000000)](https://git.io/streak-stats)
